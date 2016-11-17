@@ -3,6 +3,9 @@ guitar notes transcriber
 
 Basic implementation of the aubio library to try and map notes played on the guitar to the top half of the guitar fretboard. The use of the base frequency identifier and the onset detector has been from the python extension of the aubio library. Any code on top of that has been to augment the use of the library to estimate where the notes are positioned on the guitar fretboard.
 
+**Disclaimer**
+This project is still under works, a LOT of things don't work as they are supposed to, there is no distinguished UI (Blame it on the lack of personnel AND TIME!), but everyting works as it should in the terminal.
+
 Implementation and Design Basics
 --------------------------------
 
