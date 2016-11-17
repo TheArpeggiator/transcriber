@@ -36,7 +36,7 @@ Contact Info and Email Address
 Sujith Sajeev - sujithishtar3@gmail.com
 Sayeram Eswar - sayeram.eswar1@gmail.com
 
-Rahul Agnihotri (myself) - raul.agni12@gmail.com
+Rahul Agnihotri (myself) - ragni@ccrma.stanford.edu
 
 Copyright and License Information
 ---------------------------------
